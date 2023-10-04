@@ -1,2 +1,2 @@
-# Python.Calculator
-Calculator.Python
+# Python
+Calculator
